@@ -1,1 +1,13 @@
+Codigo HTML
 
+<div class="contacto">
+    <form action="">
+        <label for="nombre">Nombre</label>
+        <input type="text" name="nombre" id="nombre">
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email">
+        <label for="mensaje">Mensaje</label>
+        <textarea name="mensaje" id="mensaje" cols="30" rows="10"></textarea>
+        <input class="boton" type="submit" value="Enviar">
+    </form>
+</div>

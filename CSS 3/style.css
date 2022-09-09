@@ -1,0 +1,26 @@
+.contacto{
+    width: 90%;
+    margin: 15px auto;
+    background: #a7a6a6;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+form label{
+    display: block;
+    margin: 10px;
+    color: white;
+}
+
+form input{
+    display: block;
+    margin: 10px;
+}
+
+form .boton{
+    margin: 10px;
+    background: #313131;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 15px;
+}
